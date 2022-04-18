@@ -6,11 +6,11 @@ Gem::Specification.new do |spec|
   spec.name          = 'twitty'
   spec.version       = Twitty::VERSION
   spec.authors       = ['Subin T P', 'Pranav Raj S', 'Sojan Jose']
-  spec.email         = ['hello@thoughtwoot.com', 'subin@thoughtwoot.com', 'pranav@thoughtwoot.com', 'sojan@thoughtwoot.com']
+  spec.email         = ['hello@thoughtwooh.com', 'subin@thoughtwooh.com', 'pranav@thoughtwooh.com', 'sojan@thoughtwooh.com']
 
   spec.summary       = 'Twitter API wrapper'
   spec.description   = 'Twitty makes working with the twitter account subscriptions APIs much easier'
-  spec.homepage      = 'https://www.cyber1s.com'
+  spec.homepage      = 'https://chat.cyber1s.com'
   spec.license       = 'MIT'
 
   spec.metadata = {

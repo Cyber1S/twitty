@@ -6,7 +6,7 @@ RSpec.describe Twitty::Request do
       access_token: 'TEST_ACCESS_TOKEN',
       access_token_secret: 'TEST_ACCESS_SECRET',
       base_url: 'https://api.twitter.com/',
-      environment: 'cyber1schat_test'
+      environment: 'cyberchat_test'
     }
 
     @config = Twitty::Config.new(config_params)

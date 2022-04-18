@@ -8,7 +8,7 @@ RSpec.describe Twitty::Facade do
       config.access_token = 'TEST_ACCESS_TOKEN'
       config.access_token_secret = 'TEST_ACCESS_SECRET'
       config.base_url = 'https://api.twitter.com/'
-      config.environment = 'cyber1schat_test'
+      config.environment = 'cyberchat_test'
     end
   end
 
